@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environments (if you used one)
+venv/
+.venv/
+env/
+
+# Ignore the generated markdown files so your repo stays clean
+*_investment_memo.md
