@@ -7,5 +7,3 @@ venv/
 .venv/
 env/
 
-# Ignore the generated markdown files so your repo stays clean
-*_investment_memo.md
