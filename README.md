@@ -25,7 +25,7 @@ You must also pull the Llama 3.1 model into your local Ollama instance:
 ```bash
 ollama run llama3.1
 ```
-📊 Example Output
+## 📊 Example Output
 When you run the script and input a ticker like apple, the AI orchestrates the research and outputs a file named apple_investment_memo.md that looks like this:
 # Investment Memo: apple
 
